@@ -9,7 +9,7 @@ import co.edu.ucatolica.polimorfismoaves.supertype.TipoVuelo;
 
 
 /**
- * 
+ * @autor: Rodrigo
  *
  */
 public abstract class Ave {
